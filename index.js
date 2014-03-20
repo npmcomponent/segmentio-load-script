@@ -1,6 +1,6 @@
 
-var onload = require('script-onload');
-var type = require('type');
+var onload = require('segmentio-script-onload');
+var type = require('component-type');
 
 
 module.exports = function loadScript (options, callback) {
